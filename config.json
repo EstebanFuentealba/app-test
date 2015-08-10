@@ -1,0 +1,6 @@
+{
+  "notify": {
+    "displayTime": 30000,
+    "icon": "./assets/img/icon175x175.png"
+  }
+}
